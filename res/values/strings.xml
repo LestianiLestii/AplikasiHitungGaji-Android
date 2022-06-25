@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Aplikasi Hitung Gaji Karyawan</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_proses_activity">Proses</string>
+    <string name="title_activity_interface__akhir">Interface</string>
+
+</resources>
